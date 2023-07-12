@@ -1,6 +1,6 @@
 # タコメーターを使用してCPU使用率を表示させる
-  *Status: finished!  
-  *LastUpdate: 2023/07/12  
+  - Status: finished!  
+  - LastUpdate: 2023/07/12  
 
 <img src="https://img.shields.io/badge/licence-masuda-green"> <img src="https://img.shields.io/badge/university-CIT-green"> <img src="https://img.shields.io/badge/undergraduate-Computer%20Science-green">  
 <img src="https://img.shields.io/badge/Arduino-blue"> <img src="https://img.shields.io/badge/Tachometer-blue">   
